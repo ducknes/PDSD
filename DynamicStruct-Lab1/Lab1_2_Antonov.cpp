@@ -15,7 +15,7 @@ int main(int argc, char **argv){
     cout << "А подмножество A: " << boolalpha << isSubSet(A, A) << "\n" << endl;
 
     cout << "A = B: " << boolalpha << isSetsEquals(A, B) << endl;
-    cout << "A = A: " << boolalpha << isSetsEquals(A, A) << "\n" << endl;
+    cout << "A = А: " << boolalpha << isSetsEquals(A, A) << "\n" << endl;
     
     Set* C = unionOfSets(A, B);
     cout << "Объединенное множество: " << setView(C, ' ') << "\n" << endl;

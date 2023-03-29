@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: DynamicStruct_Lab1
+# Project: DynamicStruct_Lab4
 # Configurations: Debug
 # =============================================================================
 
@@ -41,43 +41,43 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/ilyaantonov/Downloads/2$ курс/PDSD/build/
 # =============================================================================
-# Object build statements for EXECUTABLE target DynamicStruct_Lab3
+# Object build statements for EXECUTABLE target DynamicStruct_Lab4
 
 
 #############################################
-# Order-only phony target for DynamicStruct_Lab3
+# Order-only phony target for DynamicStruct_Lab4
 
-build cmake_object_order_depends_target_DynamicStruct_Lab3: phony || CMakeFiles/DynamicStruct_Lab3.dir
+build cmake_object_order_depends_target_DynamicStruct_Lab4: phony || CMakeFiles/DynamicStruct_Lab4.dir
 
-build CMakeFiles/DynamicStruct_Lab3.dir/Set_Cont_List.cpp.o: CXX_COMPILER__DynamicStruct_Lab3_Debug /Users/ilyaantonov/Downloads/2$ курс/PDSD/DynamicStruct_Lab4/Set_Cont_List.cpp || cmake_object_order_depends_target_DynamicStruct_Lab3
-  DEP_FILE = CMakeFiles/DynamicStruct_Lab3.dir/Set_Cont_List.cpp.o.d
+build CMakeFiles/DynamicStruct_Lab4.dir/Set_Cont_List.cpp.o: CXX_COMPILER__DynamicStruct_Lab4_Debug /Users/ilyaantonov/Downloads/2$ курс/PDSD/DynamicStruct_Lab4/Set_Cont_List.cpp || cmake_object_order_depends_target_DynamicStruct_Lab4
+  DEP_FILE = CMakeFiles/DynamicStruct_Lab4.dir/Set_Cont_List.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++14
   INCLUDES = -I"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/."
-  OBJECT_DIR = CMakeFiles/DynamicStruct_Lab3.dir
-  OBJECT_FILE_DIR = CMakeFiles/DynamicStruct_Lab3.dir
+  OBJECT_DIR = CMakeFiles/DynamicStruct_Lab4.dir
+  OBJECT_FILE_DIR = CMakeFiles/DynamicStruct_Lab4.dir
 
-build CMakeFiles/DynamicStruct_Lab3.dir/SetLab4_Antonov.cpp.o: CXX_COMPILER__DynamicStruct_Lab3_Debug /Users/ilyaantonov/Downloads/2$ курс/PDSD/DynamicStruct_Lab4/SetLab4_Antonov.cpp || cmake_object_order_depends_target_DynamicStruct_Lab3
-  DEP_FILE = CMakeFiles/DynamicStruct_Lab3.dir/SetLab4_Antonov.cpp.o.d
+build CMakeFiles/DynamicStruct_Lab4.dir/SetLab4_Antonov.cpp.o: CXX_COMPILER__DynamicStruct_Lab4_Debug /Users/ilyaantonov/Downloads/2$ курс/PDSD/DynamicStruct_Lab4/SetLab4_Antonov.cpp || cmake_object_order_depends_target_DynamicStruct_Lab4
+  DEP_FILE = CMakeFiles/DynamicStruct_Lab4.dir/SetLab4_Antonov.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++14
   INCLUDES = -I"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/."
-  OBJECT_DIR = CMakeFiles/DynamicStruct_Lab3.dir
-  OBJECT_FILE_DIR = CMakeFiles/DynamicStruct_Lab3.dir
+  OBJECT_DIR = CMakeFiles/DynamicStruct_Lab4.dir
+  OBJECT_FILE_DIR = CMakeFiles/DynamicStruct_Lab4.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target DynamicStruct_Lab3
+# Link build statements for EXECUTABLE target DynamicStruct_Lab4
 
 
 #############################################
-# Link the executable DynamicStruct_Lab3
+# Link the executable DynamicStruct_Lab4
 
-build DynamicStruct_Lab3: CXX_EXECUTABLE_LINKER__DynamicStruct_Lab3_Debug CMakeFiles/DynamicStruct_Lab3.dir/Set_Cont_List.cpp.o CMakeFiles/DynamicStruct_Lab3.dir/SetLab4_Antonov.cpp.o
+build DynamicStruct_Lab4: CXX_EXECUTABLE_LINKER__DynamicStruct_Lab4_Debug CMakeFiles/DynamicStruct_Lab4.dir/Set_Cont_List.cpp.o CMakeFiles/DynamicStruct_Lab4.dir/SetLab4_Antonov.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
-  OBJECT_DIR = CMakeFiles/DynamicStruct_Lab3.dir
+  OBJECT_DIR = CMakeFiles/DynamicStruct_Lab4.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = DynamicStruct_Lab3
-  TARGET_PDB = DynamicStruct_Lab3.dbg
+  TARGET_FILE = DynamicStruct_Lab4
+  TARGET_PDB = DynamicStruct_Lab4.dbg
 
 
 #############################################
@@ -114,7 +114,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/ilyaantonov/Downloads/2 курс/PDSD/build
 
-build all: phony DynamicStruct_Lab3
+build all: phony DynamicStruct_Lab4
 
 # =============================================================================
 # Built-in targets

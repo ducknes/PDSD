@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0414\u0421/DynamicStruct_Lab4/build"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0414\u0421/DynamicStruct_Lab4/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -535,7 +535,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0414\u0421/DynamicStruct_Lab4"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/DynamicStruct_Lab4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "DynamicStruct_Lab1"
+			"value" : "DynamicStruct_Lab4"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0414\u0421/DynamicStruct_Lab4/build"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build"
 		},
 		{
 			"name" : "DynamicStruct_Lab1_IS_TOP_LEVEL",
@@ -1135,7 +1135,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0414\u0421/DynamicStruct_Lab4"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/DynamicStruct_Lab4"
+		},
+		{
+			"name" : "DynamicStruct_Lab4_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build"
+		},
+		{
+			"name" : "DynamicStruct_Lab4_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "DynamicStruct_Lab4_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/DynamicStruct_Lab4"
 		}
 	],
 	"kind" : "cache",

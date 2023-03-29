@@ -1,3 +1,3 @@
-/Users/ilyaantonov/Downloads/2 курс/PDSD/build/CMakeFiles/DynamicStruct_Lab3.dir
+/Users/ilyaantonov/Downloads/2 курс/PDSD/build/CMakeFiles/DynamicStruct_Lab4.dir
 /Users/ilyaantonov/Downloads/2 курс/PDSD/build/CMakeFiles/edit_cache.dir
 /Users/ilyaantonov/Downloads/2 курс/PDSD/build/CMakeFiles/rebuild_cache.dir

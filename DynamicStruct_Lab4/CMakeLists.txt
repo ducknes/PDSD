@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24)
-project(DynamicStruct_Lab1)
+project(DynamicStruct_Lab4)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_GENERATOR "Ninja")
@@ -8,7 +8,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 include_directories(.)
 
-add_executable(DynamicStruct_Lab3
+add_executable(DynamicStruct_Lab4
         Set_Cont_List.cpp
         SetLab4_Antonov.cpp
         SetLab4_Antonov.h)

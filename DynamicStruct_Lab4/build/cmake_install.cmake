@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab4
+# Install script for directory: /Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab4/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

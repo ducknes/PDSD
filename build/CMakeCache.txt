@@ -142,7 +142,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=DynamicStruct_Lab1
+CMAKE_PROJECT_NAME:STATIC=DynamicStruct_Lab4
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -214,6 +214,15 @@ DynamicStruct_Lab1_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 DynamicStruct_Lab1_SOURCE_DIR:STATIC=/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4
+
+//Value Computed by CMake
+DynamicStruct_Lab4_BINARY_DIR:STATIC=/Users/ilyaantonov/Downloads/2 курс/PDSD/build
+
+//Value Computed by CMake
+DynamicStruct_Lab4_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+DynamicStruct_Lab4_SOURCE_DIR:STATIC=/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4
 
 
 ########################

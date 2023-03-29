@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/DynamicStruct_Lab4/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -139,10 +139,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/clang++"
 		},
 		{
@@ -235,10 +235,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/clang"
 		},
 		{
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/DynamicStruct_Lab4/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "DynamicStruct_Lab1"
+			"value" : "DynamicStruct_Lab4"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1102,7 +1102,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "DynamicStruct_Lab1_BINARY_DIR",
+			"name" : "DynamicStruct_Lab4_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1111,10 +1111,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/build"
+			"value" : "/Users/ilyaantonov/Downloads/2 \u043a\u0443\u0440\u0441/PDSD/DynamicStruct_Lab4/build"
 		},
 		{
-			"name" : "DynamicStruct_Lab1_IS_TOP_LEVEL",
+			"name" : "DynamicStruct_Lab4_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1126,7 +1126,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "DynamicStruct_Lab1_SOURCE_DIR",
+			"name" : "DynamicStruct_Lab4_SOURCE_DIR",
 			"properties" : 
 			[
 				{

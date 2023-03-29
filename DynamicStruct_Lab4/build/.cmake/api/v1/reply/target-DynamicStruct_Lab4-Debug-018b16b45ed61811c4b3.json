@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "DynamicStruct_Lab3"
+			"path" : "DynamicStruct_Lab4"
 		}
 	],
 	"backtrace" : 1,
@@ -71,7 +71,7 @@
 			]
 		}
 	],
-	"id" : "DynamicStruct_Lab3::@6890427a1f51a3e7e1df",
+	"id" : "DynamicStruct_Lab4::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -87,8 +87,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "DynamicStruct_Lab3",
-	"nameOnDisk" : "DynamicStruct_Lab3",
+	"name" : "DynamicStruct_Lab4",
+	"nameOnDisk" : "DynamicStruct_Lab4",
 	"paths" : 
 	{
 		"build" : ".",

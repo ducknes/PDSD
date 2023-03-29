@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "DynamicStruct_Lab1",
+					"name" : "DynamicStruct_Lab4",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "DynamicStruct_Lab3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DynamicStruct_Lab3-Debug-dbb3426407bc8096b436.json",
-					"name" : "DynamicStruct_Lab3",
+					"id" : "DynamicStruct_Lab4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicStruct_Lab4-Debug-018b16b45ed61811c4b3.json",
+					"name" : "DynamicStruct_Lab4",
 					"projectIndex" : 0
 				}
 			]

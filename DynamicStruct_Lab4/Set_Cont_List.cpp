@@ -4,7 +4,7 @@ int main() {
     Set* A = new Set(6 + rand() % 3, 10, 99, 'A');
     Set* B = new Set(6 + rand() % 3, 10, 99, 'B');
 
-    cout << "Множество А: " << A->setView(' ') << endl;
+    cout << "Множество A: " << A->setView(' ') << endl;
     cout << "Множество В: " << B->setView(' ') << "\n" << endl;
 
     cout << "Мощность А: " << A->setPowers() << endl;

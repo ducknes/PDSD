@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/ilyaantonov/Downloads/2 курс/PDSD/build",
+  "command": "/usr/bin/clang++ -I\"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/.\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++14 -o CMakeFiles/DynamicStruct_Lab3.dir/Set_Cont_List.cpp.o -c \"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/Set_Cont_List.cpp\"",
+  "file": "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/Set_Cont_List.cpp"
+},
+{
+  "directory": "/Users/ilyaantonov/Downloads/2 курс/PDSD/build",
+  "command": "/usr/bin/clang++ -I\"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/.\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++14 -o CMakeFiles/DynamicStruct_Lab3.dir/SetLab4_Antonov.cpp.o -c \"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/SetLab4_Antonov.cpp\"",
+  "file": "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab4/SetLab4_Antonov.cpp"
+}
+]

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/build",
+  "command": "/usr/bin/clang++ -I\"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/.\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/DynamicStruct_Lab5.dir/Set_Cont_Set_Antonov.cpp.o -c \"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/Set_Cont_Set_Antonov.cpp\"",
+  "file": "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/Set_Cont_Set_Antonov.cpp"
+},
+{
+  "directory": "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/build",
+  "command": "/usr/bin/clang++ -I\"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/.\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/DynamicStruct_Lab5.dir/SetLab5_Antonov.cpp.o -c \"/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/SetLab5_Antonov.cpp\"",
+  "file": "/Users/ilyaantonov/Downloads/2 курс/PDSD/DynamicStruct_Lab5/SetLab5_Antonov.cpp"
+}
+]

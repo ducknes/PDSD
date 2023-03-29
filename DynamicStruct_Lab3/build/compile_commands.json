@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/build",
+  "command": "/usr/bin/clang++ -I\"/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/.\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++14 -o CMakeFiles/DynamicStruct_Lab3.dir/OOP_Set_Antonov.cpp.o -c \"/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/OOP_Set_Antonov.cpp\"",
+  "file": "/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/OOP_Set_Antonov.cpp"
+},
+{
+  "directory": "/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/build",
+  "command": "/usr/bin/clang++ -I\"/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/.\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++14 -o CMakeFiles/DynamicStruct_Lab3.dir/SetLab3_Antonov.cpp.o -c \"/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/SetLab3_Antonov.cpp\"",
+  "file": "/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynamicStruct_Lab3/SetLab3_Antonov.cpp"
+}
+]

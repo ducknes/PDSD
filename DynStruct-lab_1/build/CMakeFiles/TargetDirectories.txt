@@ -1,0 +1,3 @@
+/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynStruct-lab_1/build/CMakeFiles/DynamicStruct_Lab1.dir
+/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynStruct-lab_1/build/CMakeFiles/edit_cache.dir
+/Users/ilyaantonov/Downloads/2 курс/Программирование ДС/DynStruct-lab_1/build/CMakeFiles/rebuild_cache.dir

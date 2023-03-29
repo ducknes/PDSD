@@ -10,7 +10,7 @@ int main() {
     cout << "Мощность А: " << A->setPowers() << endl;
     cout << "Мощность B: " << B->setPowers() << "\n" << endl;
     
-    cout << "А подмножество В: " << boolalpha << A->isSubSet(B) << endl;
+    cout << "A подмножество В: " << boolalpha << A->isSubSet(B) << endl;
     cout << "А подмножество А: " << boolalpha << A->isSubSet(A) << "\n" << endl;
 
     cout << "А = B: " << boolalpha << A->isSetsEquals(B) << endl;

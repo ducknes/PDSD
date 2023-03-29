@@ -1,6 +1,8 @@
 #include "SetLab3_Antonov.h"
 
 int main() {
+    cout << "Лабораторная работа №3\n" << endl;
+    
     Set* A = new Set(6 + rand() % 3, 10, 100, 'A');
     Set* B = new Set(6 + rand() % 3, 10, 100, 'B');
 
